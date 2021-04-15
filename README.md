@@ -6,7 +6,7 @@ I am an Web Front-end Developer 🚀 from China.  ![visitors](https://visitor-ba
 ## About my contributions
 
 - 📝 I blog about web development in [juejin](https://juejin.cn/user/4248168660738606/posts)
-- 🗣 I am an contributor to many repositories and libraries, like [npm](https://www.npmjs.com/package/monia-cli)、[flutter](https://pub.dev/packages/xyz_address_picker) and so on.
+- 🗣 I am an contributor to many repositories and libraries, like [npm](https://www.npmjs.com/package/monia-cli)、[pub](https://pub.dev/packages/xyz_address_picker) and so on.
 - 💻 I am a Core Contributor to [monia-cli](https://www.npmjs.com/package/monia-cli) and [flutter-shopping-AiRi](https://github.com/xieyezi/flutter-shopping-AiRi)
 - 💻 My other popular repositories include [vueMusic](https://github.com/xieyezi/vueMusic) or [Anniversary](https://github.com/xieyezi/flutter-Anniversary)
 
