@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xieyezi.xieyezi)
-
-I am an Web Front-end Developer 🚀 from China.  
+I am an Web Front-end Developer 🚀 from China.  ![visitors](https://visitor-badge.glitch.me/badge?page_id=xieyezi.xieyezi)
 
 
 ## About my contributions
