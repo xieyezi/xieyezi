@@ -17,7 +17,7 @@ I have been engaged in web development for three years. Which is my skills inclu
 - ⚡ typescript
 - 📫 flutter
 - 🤖 mobile Development CI and CD
-✨ And much more 🙂
+- ✨ And much more 🙂
 
 ## Talking with me
 
