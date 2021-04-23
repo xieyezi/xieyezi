@@ -19,8 +19,7 @@ I am an Web Front-end Developer 🚀 from China.
 - 💻 I am a Core Contributor to [monia-cli](https://www.npmjs.com/package/monia-cli) and [flutter-shopping-AiRi](https://github.com/xieyezi/flutter-shopping-AiRi)
 - 💻 My other popular repositories include [vueMusic](https://github.com/xieyezi/vueMusic) or [Anniversary](https://github.com/xieyezi/flutter-Anniversary)
 
-## Talking with me
 
-- 🐦 My twitter: @xieyezi
-- 💬 juejin: @觉非
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=xieyezi&count_private=true&show_icons=true&theme=buefy" alt="xieyezi" />
 
