@@ -21,5 +21,5 @@ I am an Web Front-end Developer 🚀 from China.
 
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=xieyezi&count_private=true&show_icons=true&theme=buefy" alt="xieyezi" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=xieyezi&count_private=true&show_icons=true&theme=buefy&hide=contribs,prs" alt="xieyezi" />
 
