@@ -15,10 +15,10 @@ I am an Web Front-end Developer 🚀 from China.
 ## About my contributions
 
 - 📝 I blog about web development in [juejin](https://juejin.cn/user/4248168660738606/posts)
-- 🗣 I am an contributor to many repositories and libraries, like [npm](https://www.npmjs.com/package/monia-cli)、[pub](https://pub.dev/packages/xyz_address_picker) and so on.
-- 💻 I am a Core Contributor to [monia-cli](https://github.com/xieyezi/monia-cli) and [flutter-shopping-AiRi](https://github.com/xieyezi/flutter-shopping-AiRi)
-- 💻 my other popular repositories include [vueMusic](https://github.com/xieyezi/vueMusic) or [Anniversary](https://github.com/xieyezi/flutter-Anniversary)
-
+- 💻 I am a core contributor to [monia-cli](https://github.com/xieyezi/monia-cli) and [flutter-shopping-airi](https://github.com/xieyezi/flutter-shopping-AiRi)
+- 💻 my other popular repositories include [vuemusic](https://github.com/xieyezi/vueMusic) or [anniversary](https://github.com/xieyezi/flutter-Anniversary)
+- 🗣 I am an contributor to many repositories and libraries, like [npm](https://www.npmjs.com/package/monia-cli), [pub](https://pub.dev/packages/xyz_address_picker) and so on.
+- 😸 Also I am an contributor to some famous open source project, such as [semi-design](https://github.com/DouyinFE/semi-design), [react-antd-admin](https://github.com/WinmezzZ/react-antd-admin) and so on.
 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=xieyezi&count_private=true&show_icons=true&theme=buefy&hide=contribs,prs" alt="xieyezi" />
