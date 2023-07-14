@@ -10,7 +10,7 @@ I am an Web Front-end Developer 🚀 from China.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code>![visitors](https://api.visitor.plantree.me/visitor-badge/pv?label=visitor&namespace=xieyezi666&key=index.html&color=blue))</code>
+<code>![visitors](https://api.visitor.plantree.me/visitor-badge/pv?label=visitor&namespace=xieyezi666&key=index.html&color=blue)</code>
 ## About my contributions
 
 - 📝 I blog about web development in [juejin](https://juejin.cn/user/4248168660738606/posts)
