@@ -20,5 +20,6 @@ I am an Web Front-end Developer 🚀 from China.
 - 😸 Also I am an contributor to some famous open source project, such as [semi-design](https://github.com/DouyinFE/semi-design), [react-antd-admin](https://github.com/WinmezzZ/react-antd-admin) and so on.
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=xieyezi&count_private=true&show_icons=true&theme=buefy&hide=contribs,prs" alt="xieyezi" />
 
+
+[![xieyezi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xieyezi)]()
