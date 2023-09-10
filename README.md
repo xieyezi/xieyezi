@@ -13,7 +13,7 @@ I am an Web Front-end Developer 🚀 from China.
 
 ## About me
 
-- I currently work at [Chang'an Automobile](http://www.globalchangan.com/) as a Frontend Architect, And I am primarily responsible for the frontend architecture of the mobile platform.
+- I currently work at [Chang'an Automobile](http://www.globalchangan.com/) as a Frontend Architect.
 - 📝 I write some things about web in my [blog](https://xieyezi.github.io/) and [juejin](https://juejin.cn/user/4248168660738606/posts).
 - 💻 I am a contributor to famous gitrepo such as [vant](https://github.com/youzan/vant), [vuejs](https://github.com/vuejs-translations/docs-zh-cn), [semi-design](https://github.com/DouyinFE/semi-design), etc.
 
