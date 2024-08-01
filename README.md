@@ -14,7 +14,7 @@ I am an Web Front-end Developer 🚀 from China.
 ## About me
 
 - 🧑‍💻 I currently work as a front-end.
-- 📝 I occasionally write some things about Web on my [blog](https://xieyezi.github.io/) and [juejin](https://juejin.cn/user/4248168660738606/posts).
+- 📝 I occasionally write some things about Web on my [blog](https://www.xieyezi.site/) and [juejin](https://juejin.cn/user/4248168660738606/posts).
 - 💻 I'm a contributor to famous gitrepo such as [vant](https://github.com/youzan/vant), [vuejs](https://github.com/vuejs-translations/docs-zh-cn), [semi-design](https://github.com/DouyinFE/semi-design), etc.
 - 🥳 I'm very honored to participate in the 2022 [ChongQing FrontEnd Conf](https://www.bilibili.com/video/BV1Nm4y1F7B9/?spm_id_from=333.999.0.0&vd_source=7d4ab4d0bf50b77649072c430bd684fd) hosted by Ant Group.
 
